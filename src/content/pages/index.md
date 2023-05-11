@@ -11,10 +11,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
-    description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
+    title: 漂亮的电子邮件活动
+    description: 使用 Sendit，您可以快速创建漂亮的内容丰富的电子邮件，以吸引读者的注意力、吸引他们并将他们转化为客户。
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
