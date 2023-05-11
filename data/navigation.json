@@ -3,31 +3,31 @@
   "items": [
     {
       "link": "/",
-      "text": "Home"
+      "text": "首页"
     },
     {
       "link": "/features/",
-      "text": "Features"
+      "text": "特点"
     },
     {
       "link": "/pricing/",
-      "text": "Pricing"
+      "text": "价格"
     },
     {
       "link": "/about/",
-      "text": "About"
+      "text": "关于"
     },
     {
       "link": "/blog/",
-      "text": "Blog"
+      "text": "博客"
     },
     {
       "link": "/contact/",
-      "text": "Contact"
+      "text": "联系"
     }
   ],
   "btn": {
     "link": "/signup/",
-    "text": "Get Started"
+    "text": "开始"
   }
 }

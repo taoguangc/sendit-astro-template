@@ -26,49 +26,49 @@
   ],
   "sections": [
     {
-      "title": "Main Pages",
+      "title": "主页",
       "links": [
         {
           "link": "/",
-          "text": "Home"
+          "text": "首页"
         },
         {
           "link": "/features",
-          "text": "Features"
+          "text": "特点"
         },
         {
           "link": "/pricing",
-          "text": "Price"
+          "text": "价格"
         },
         {
           "link": "/about",
-          "text": "About"
+          "text": "关于"
         }
       ]
     },
     {
-      "title": "Community",
+      "title": "社区",
       "links": [
         {
           "link": "/blog",
-          "text": "Blog"
+          "text": "博客"
         },
         {
           "link": "/feed.xml",
-          "text": "RSS Feed"
+          "text": "RSS 订阅"
         }
       ]
     },
     {
-      "title": "Company",
+      "title": "公司",
       "links": [
         {
           "link": "/contact",
-          "text": "Contact"
+          "text": "联系"
         },
         {
           "link": "/privacy",
-          "text": "Privacy Policy"
+          "text": "隐私政策"
         }
       ]
     }
