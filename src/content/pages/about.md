@@ -27,28 +27,26 @@ content_blocks:
       text: 免费试用
       link: /signup
   - _bookshop_name: global/counter
-    title: Built for your
-    title_suffix: Business
-    description: We've built Sendit from the ground up the help grow your business faster.
+    title: 专为您的
+    title_suffix: 业务打造
+    description: 我们从头开始构建 Sendit，以帮助您更快地发展业务。
     alternate_style: true
     numbers:
       - prefix: $
         number: 200
         suffix: m
-        text: Venture capital raised
+        text: 筹集的风险投资
       - number: 2016
-        text: Established in
+        text: 建立于
       - number: 40
         suffix: +
-        text: Amazing team members
+        text: 了不起的团队成员
       - number: 44325
         suffix: +
-        text: Active users and growing
+        text: 活跃用户和增长
   - _bookshop_name: about/video
-    title: We love what we do
-    description: >-
-      Our team has decades of experience working with email marketing campaigns
-      and we’re passionate about helping you connect with your customers.
+    title: 我们热爱我们所做的
+    description: 我们的团队拥有数十年的电子邮件营销活动经验，我们热衷于帮助您与客户建立联系。
     button:
       link: https://www.linkedin.com/
       text: Follow on Linkedin
@@ -60,35 +58,39 @@ content_blocks:
     title: Our leadership team
     team_members:
       - name: Nikolas Mcconnell
-        designation: Co-Founder & CEO
+        designation: 联合创始人兼首席执行官
         image: /images/team/1.jpg
         image_alt: 'Team member: Nikolas Mcconnell'
       - name: Keiren Mcculloch
-        designation: CMO
+        designation: 首席营销官
         image: /images/team/2.jpg
         image_alt: 'Team member: Keiren Mcculloch'
       - name: Piers Reyes
-        designation: Head of Marketing
+        designation: 营销主管
         image: /images/team/3.jpg
         image_alt: 'Team member: Piers Reyes'
       - name: Zachary Arias
-        designation: Co-founder & CTO
+        designation: 联合创始人兼首席技术官
         image: /images/team/4.jpg
         image_alt: 'Team member: Zachary Arias'
       - name: Harmony Dunlop
-        designation: Head of Sales
+        designation: 销售主管
         image: /images/team/5.jpg
         image_alt: 'Team member: Harmony Dunlop'
       - name: Elize Schwartz
-        designation: CRO
+        designation: 首席风险官
         image: /images/team/6.jpg
         image_alt: 'Team member: Elize Schwartz'
       - name: Coen Simmons
-        designation: Head of Design
+        designation: 设计主管
         image: /images/team/7.jpg
         image_alt: 'Team member: Coen Simmons'
       - name: Fran Figureson
-        designation: Head of People
+        designation: 人事主管
         image: /images/team/8.jpg
         image_alt: 'Team member: Fran Figureson'
+      - name: Cody Fisher
+        designation: 联合创始人兼首席执行官
+        image: /images/team/team-member-1.jpg
+        image_alt: 'Team member: Cody Fisher'
 ---
