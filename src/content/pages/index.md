@@ -19,8 +19,8 @@ content_blocks:
       text: 免费尝试
       link: /signup/
   - _bookshop_name: global/counter
-    title: Scale your
-    title_suffix: Business
+    title: 扩展你的
+    title_suffix: 业务
     description: >-
       We have an extensive library of pre-written sales emails, proven marketing
       templates, and more to get you started on your next project.
@@ -29,19 +29,19 @@ content_blocks:
       - prefix: $
         number: 200
         suffix: m
-        text: Venture capital raised
+        text: 筹集的风险投资
       - prefix:
         number: 2016
         suffix:
-        text: Established in
+        text: 建立于
       - prefix:
         number: 40
         suffix: +
-        text: Amazing team members
+        text: 了不起的团队成员
       - prefix:
         number: 4322
         suffix: +
-        text: Active users and growing
+        text: 活跃用户和增长
   - _bookshop_name: home/video
     image: /images/video/video-thum.jpg
     image_alt: Thumbnail for video
