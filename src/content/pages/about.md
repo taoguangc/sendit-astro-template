@@ -12,9 +12,7 @@ seo:
 content_blocks:
   - _bookshop_name: about/hero
     title: 肩负改变电子邮件营销的使命
-    description: >-
-      We're here to breathe new air into email marketing and help grow your
-      business.
+    description: 我们在这里为电子邮件营销注入新的活力，帮助您发展业务。
     hero_images:
       - image: /images/about/aboutfeature-two.jpg
         image_alt: People working on laptops
@@ -26,7 +24,7 @@ content_blocks:
         image_alt: Staff group photo
         placement: back_top_left
     button:
-      text: Try This Free
+      text: 免费试用
       link: /signup
   - _bookshop_name: global/counter
     title: Built for your
