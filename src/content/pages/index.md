@@ -18,7 +18,7 @@ content_blocks:
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
-      text: Try This Free
+      text: 免费尝试
       link: /signup/
   - _bookshop_name: global/counter
     title: Scale your
@@ -49,7 +49,7 @@ content_blocks:
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: "Sendit "
+    title: 'Sendit '
     title_suffix: Features
     remove_top_padding: true
     description: >-
