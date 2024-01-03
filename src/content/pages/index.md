@@ -21,9 +21,7 @@ content_blocks:
   - _bookshop_name: global/counter
     title: 扩展你的
     title_suffix: 业务
-    description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+    description: 我们拥有广泛的预写销售电子邮件库、经过验证的营销模板等，可帮助您开始下一个项目。
     alternate_style: false
     numbers:
       - prefix: $
@@ -49,10 +47,10 @@ content_blocks:
   - _bookshop_name: global/header
     title: 'Sendit '
     title_suffix: Features
-    remove_top_padding: true
     description: >-
       Our platform offers the most advanced features including automated email
       content creation, dynamic personalization, and customer segmentation.
+    remove_top_padding: true
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
